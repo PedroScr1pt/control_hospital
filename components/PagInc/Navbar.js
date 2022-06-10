@@ -28,7 +28,7 @@ export default function Navbar() {
             </li>
 
             <li className="nav-item">
-              <Link href="/ingresar">
+              <Link href="./ingresar">
                 <a className="nav-link">Ingresar</a>
               </Link>
             </li>
